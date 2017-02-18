@@ -1,6 +1,8 @@
 server:
   port: 3002
 eureka:
+  serviceUrl:
+    defaultZone: http://microservice-discovery:3002/eureka
   dashboard:
     path: /dashboard
   client:
