@@ -54,6 +54,7 @@
 	</dependencyManagement>
 
 	<build>
+		<finalName>wb3-microservice-discovery</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
