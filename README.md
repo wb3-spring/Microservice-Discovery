@@ -1,2 +1,2 @@
 # Microservice-Discovery
-Spring Cloud Zuul Edge Gateway server
+Spring Cloud Eureka Gateway server
