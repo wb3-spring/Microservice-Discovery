@@ -1,0 +1,10 @@
+server:
+  port: 3002
+eureka:
+  dashboard:
+    path: /dashboard
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
+  server:
+    waitTimeInMsWhenSyncEmpty: 0
