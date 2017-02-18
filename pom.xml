@@ -5,7 +5,7 @@
 
 	<groupId>wb3</groupId>
 	<artifactId>microservice-discovery</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
 	<name>microservice-discovery</name>
