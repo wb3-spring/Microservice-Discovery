@@ -5,7 +5,7 @@ eureka:
     path: /dashboard
   client:
     serviceUrl:
-      defaultZone: http://127.0.0.1:3002/eureka/
+      defaultZone: http://10.0.1.101:3002/eureka/
     registerWithEureka: false
     fetchRegistry: false
   server:
